@@ -6,7 +6,7 @@
 - Gabrielle ([@GabsZ1](https://github.com/GabsZ1))
 - Henrique ([@HenriqueCunha01](https://github.com/HenriqueCunha01))
 - Larissa ([@](o))
-- Ryan ([@](o))
+- Ryan ([@ryanale007](https://github.com/Ryanale007))
 
 ## 📖 Índice
 //1. [Introdução ao Git e ao Controle de Versão](01-introducao.md)
